@@ -153,3 +153,9 @@ The project includes structured relationships and analytical measures for effici
 #  Author
 Ahmed Mohamed  
 Pharmacist & Data Analyst | Power BI | SQL | Python | Healthcare Analytics
+
+LinkedIn:
+https://www.linkedin.com/in/ahmed-mohamed-data-analysis
+
+GitHub:
+https://github.com/ahmedmoham4d2003-dotcom
