@@ -1,6 +1,6 @@
-# 🍕 Pizza Sales Analytics Dashboard
+#  Pizza Sales Analytics Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 An interactive sales analytics dashboard built using SQL and Power BI to analyze pizza sales performance, revenue trends, customer ordering behavior, and product insights.
 
 The project focuses on transforming raw sales data into actionable business insights through:
@@ -12,7 +12,7 @@ The project focuses on transforming raw sales data into actionable business insi
 
 ---
 
-# 🎯 Business Objectives
+#  Business Objectives
 - Monitor total sales performance
 - Analyze revenue trends over time
 - Identify top-selling and low-performing pizzas
@@ -31,9 +31,9 @@ The project focuses on transforming raw sales data into actionable business insi
 
 ---
 
-# 🧩 Data Analysis Workflow
+#  Data Analysis Workflow
 
-## 1️⃣ SQL Data Analysis
+## SQL Data Analysis
 Used SQL queries for:
 - Revenue calculations
 - Order analysis
@@ -44,7 +44,7 @@ Used SQL queries for:
 
 ---
 
-## 2️⃣ Power BI Dashboard Development
+## Power BI Dashboard Development
 Built interactive dashboards to visualize:
 - Revenue performance
 - Order behavior
@@ -54,7 +54,7 @@ Built interactive dashboards to visualize:
 
 ---
 
-# 📊 Key KPIs
+#  Key KPIs
 - Total Orders
 - Total Quantity Sold
 - Total Revenue
@@ -66,9 +66,9 @@ Built interactive dashboards to visualize:
 
 ---
 
-# 📂 Dashboard Pages
+#  Dashboard Pages
 
-## 1️⃣ Overview
+## Overview
 Provides a high-level overview of:
 - Total revenue
 - Total orders
@@ -79,7 +79,7 @@ Provides a high-level overview of:
 
 ---
 
-## 2️⃣ Sales Performance
+## Sales Performance
 Focused on:
 - Revenue by pizza size
 - Order distribution by hour
@@ -88,7 +88,7 @@ Focused on:
 
 ---
 
-## 3️⃣ Product Analysis
+## Product Analysis
 Analyzes:
 - Top 5 pizzas by revenue
 - Lowest-performing pizzas
@@ -98,7 +98,7 @@ Analyzes:
 
 ---
 
-# 💡 Key Insights
+#  Key Insights
 - Large-sized pizzas generated the highest revenue.
 - Chicken pizzas represented strong sales performance.
 - Sales volume peaked during afternoon and evening hours.
@@ -107,7 +107,7 @@ Analyzes:
 
 ---
 
-# 🚀 Recommendations
+#  Recommendations
 - Increase promotion of top-performing pizza categories.
 - Optimize inventory for high-demand pizza sizes.
 - Improve marketing strategies for lower-performing products.
@@ -116,7 +116,7 @@ Analyzes:
 
 ---
 
-# 🧠 Data Modeling
+#  Data Modeling
 The project includes structured relationships and analytical measures for efficient reporting and KPI tracking.
 
 ## Data Model
@@ -124,7 +124,7 @@ The project includes structured relationships and analytical measures for effici
 
 ---
 
-# 📸 Dashboard Preview
+#  Dashboard Preview
 
 ## Overview
 ![Overview](overview.png)
@@ -141,7 +141,7 @@ The project includes structured relationships and analytical measures for effici
 
 ---
 
-# 📁 Project Files
+#  Project Files
 - SQL Queries (.sql)
 - Power BI Dashboard (.pbix)
 - Dashboard screenshots
@@ -150,6 +150,6 @@ The project includes structured relationships and analytical measures for effici
 
 ---
 
-# 👤 Author
+#  Author
 Ahmed Mohamed  
 Pharmacist & Data Analyst | Power BI | SQL | Python | Healthcare Analytics
